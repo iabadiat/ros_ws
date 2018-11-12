@@ -1,0 +1,5 @@
+/home/usuario/ros_ws/src/baxter_simulator/baxter_sim_hardware/config/baxter_sim_controllers.yaml
+
+publish_rate = 500 Hz
+
+Change from 50 Hz to 500 Hz
